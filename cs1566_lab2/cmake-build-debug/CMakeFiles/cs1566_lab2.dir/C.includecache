@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liam/OneDrive - University of Pittsburgh/cs1566_lab2/main.c
+stdio.h
+-
+matrix.h
+/Users/liam/OneDrive - University of Pittsburgh/cs1566_lab2/matrix.h
+
+/Users/liam/OneDrive - University of Pittsburgh/cs1566_lab2/matrix.c
+matrix.h
+/Users/liam/OneDrive - University of Pittsburgh/cs1566_lab2/matrix.h
+stdio.h
+-
+math.h
+/Users/liam/OneDrive - University of Pittsburgh/cs1566_lab2/math.h
+
+/Users/liam/OneDrive - University of Pittsburgh/cs1566_lab2/matrix.h
+

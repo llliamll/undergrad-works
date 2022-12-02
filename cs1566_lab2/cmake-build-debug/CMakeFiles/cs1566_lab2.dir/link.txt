@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cs1566_lab2.dir/main.c.o CMakeFiles/cs1566_lab2.dir/matrix.c.o  -o cs1566_lab2  -lm 
